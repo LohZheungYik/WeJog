@@ -56,6 +56,30 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "flare_dart",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/flare_dart-2.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flare_flutter",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/flare_flutter-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "flare_loading",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/flare_loading-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flare_splash_screen",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/flare_splash_screen-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -176,7 +200,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-03-22T10:07:38.004246Z",
+  "generated": "2020-03-31T15:11:31.768339Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }

@@ -259,10 +259,11 @@ public final class R {
     public static final int ttcIndex=0x7f010014;
   }
   public static final class color {
-    public static final int notification_action_color_filter=0x7f020000;
-    public static final int notification_icon_bg_color=0x7f020001;
-    public static final int ripple_material_light=0x7f020002;
-    public static final int secondary_text_default_material_light=0x7f020003;
+    public static final int background=0x7f020000;
+    public static final int notification_action_color_filter=0x7f020001;
+    public static final int notification_icon_bg_color=0x7f020002;
+    public static final int ripple_material_light=0x7f020003;
+    public static final int secondary_text_default_material_light=0x7f020004;
   }
   public static final class dimen {
     public static final int compat_button_inset_horizontal_material=0x7f030000;
@@ -362,6 +363,7 @@ public final class R {
   }
   public static final class mipmap {
     public static final int ic_launcher=0x7f080000;
+    public static final int logo=0x7f080001;
   }
   public static final class string {
     public static final int status_bar_notification_info_overflow=0x7f090000;

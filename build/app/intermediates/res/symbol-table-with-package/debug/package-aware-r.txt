@@ -20,6 +20,7 @@ attr layout_insetEdge
 attr layout_keyline
 attr statusBarBackground
 attr ttcIndex
+color background
 color notification_action_color_filter
 color notification_icon_bg_color
 color ripple_material_light
@@ -111,6 +112,7 @@ layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
 mipmap ic_launcher
+mipmap logo
 string status_bar_notification_info_overflow
 style LaunchTheme
 style TextAppearance_Compat_Notification

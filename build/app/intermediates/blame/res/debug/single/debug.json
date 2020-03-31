@@ -40,6 +40,10 @@
         "source": "C:\\Users\\zheung yik\\.gradle\\caches\\transforms-2\\files-2.1\\0a271e99b6771ad4a84318244d532fb7\\core-1.0.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\map\\myPractice\\wejog1\\android\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
         "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
         "source": "C:\\Users\\zheung yik\\.gradle\\caches\\transforms-2\\files-2.1\\0a271e99b6771ad4a84318244d532fb7\\core-1.0.0\\res\\drawable\\notification_bg_low.xml"
     },
@@ -50,6 +54,10 @@
     {
         "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\zheung yik\\.gradle\\caches\\transforms-2\\files-2.1\\0a271e99b6771ad4a84318244d532fb7\\core-1.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\map\\myPractice\\wejog1\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
     },
     {
         "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
@@ -96,8 +104,16 @@
         "source": "C:\\Users\\zheung yik\\.gradle\\caches\\transforms-2\\files-2.1\\0a271e99b6771ad4a84318244d532fb7\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\map\\myPractice\\wejog1\\android\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
         "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\zheung yik\\.gradle\\caches\\transforms-2\\files-2.1\\0a271e99b6771ad4a84318244d532fb7\\core-1.0.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\map\\myPractice\\wejog1\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
     },
     {
         "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -108,12 +124,12 @@
         "source": "C:\\Users\\zheung yik\\.gradle\\caches\\transforms-2\\files-2.1\\0a271e99b6771ad4a84318244d532fb7\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\zheung yik\\.gradle\\caches\\transforms-2\\files-2.1\\0a271e99b6771ad4a84318244d532fb7\\core-1.0.0\\res\\drawable\\notification_bg.xml"
-    },
-    {
         "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\zheung yik\\.gradle\\caches\\transforms-2\\files-2.1\\0a271e99b6771ad4a84318244d532fb7\\core-1.0.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\zheung yik\\.gradle\\caches\\transforms-2\\files-2.1\\0a271e99b6771ad4a84318244d532fb7\\core-1.0.0\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
@@ -130,6 +146,10 @@
     {
         "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\zheung yik\\.gradle\\caches\\transforms-2\\files-2.1\\0a271e99b6771ad4a84318244d532fb7\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\map\\myPractice\\wejog1\\android\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
     },
     {
         "merged": "C:\\map\\myPractice\\wejog1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
