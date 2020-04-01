@@ -49,6 +49,7 @@ class _SettingsState extends State<Settings> {
       return AlertDialog(
         title: Text(instruction),
         content: TextField(
+          keyboardType: TextInputType.number,
         controller: ctrl,
       ),
       actions: <Widget>[
