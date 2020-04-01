@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wejog1/screens/splashScreen/SplashScr.dart';
+import 'package:wejog1/screens/splashScreen/Splash.dart';
 
 /*main function*/
 void main() => runApp(MyApp());
